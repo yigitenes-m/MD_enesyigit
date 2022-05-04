@@ -9,10 +9,6 @@
 </p>
 
 <h3 align="center">A passionate Open Source contributor</h3>
-
-<p align="center">&nbsp;
-    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="hareketliresim" />
-</p>
         
         
         
