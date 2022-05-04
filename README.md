@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate Software Developer</h3>
 
-
+<div  align="center"> <img src="https://github.com/MelihOzaslan01/MelihOzaslan01/blob/output/github-contribution-grid-snake.svg" /></div>
 <!--
 
 Here are some ideas to get you started:
