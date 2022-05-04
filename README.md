@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Enes</h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=MD_enesyigit&label=Profile%20views&color=0e75b6&style=flat" alt="MD_enesyigit"/>
     <a href="https://github.com/MD_enesyigit"><img src="https://img.shields.io/github/followers/cosasdepuma.svg?label=GitHub&style=social" alt="GitHub"></a>
     <a href="https://github.com/MD_enesyigit?tab=followers"><img src="https://img.shields.io/github/followers/MD_enesyigit?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://twitter.com/MD_enesyigit" target="_blank"><img alt="Twitter: MD_enesyigit" src="https://img.shields.io/twitter/follow/MD_enesyigit.svg?style=social"/></a>
